@@ -85,7 +85,7 @@ Copy code</ul>
 
 
 <h2>Contributing</h2>
-<ul>We welcome contributions to enhance the project. Please follow these steps:</ul>
+<ul>Please follow these steps:</ul>
 <ol type = "1">
 <li>Fork the repository.</li>  
 <li>Create a new branch (git checkout -b feature-branch).</li>
