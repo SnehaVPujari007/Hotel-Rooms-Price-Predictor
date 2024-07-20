@@ -95,5 +95,5 @@ Copy code</ul>
 </ol>
 
 
-By following this README, you should be able to set up, run, and understand the house price prediction project using both Machine Learning and Deep Learning approaches. Happy coding!
+**By following this README, you should be able to set up, run, and understand the house price prediction project using both Machine Learning and Deep Learning approaches. Happy coding!😊**
 
