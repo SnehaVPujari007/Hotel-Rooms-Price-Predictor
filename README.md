@@ -10,7 +10,7 @@
 <li>Installation</li>
 <li>Dataset</li>
 
-<li>Usage</li>
+
 <li>Models Implemented</li>
 <li>
   Models Implemented
@@ -22,8 +22,7 @@
 <h2>Installation</h2>
 <b><p>Prerequisites</p></b>
 <p>Ensure you have Python 3.7 or above installed. The required libraries can be installed using the following command : </p>
-<ul>bash Copy code</ul>
-<ul>pip install -r requirements.txt</ul>
+
 <p><b>Required Libraries</b></p>
 <li>numpy</li>
 <li>pandas</li>
@@ -47,26 +46,7 @@
 <li>Feature encoding</li>
 <li>Data normalization</li>
 
-<h2>Usage</h2>
-<p><b>Data Preprocessing</b></p>
-<ul>Run the data preprocessing script to clean and prepare the dataset : </ul>
-<ul>bash
-Copy code</ul>
-<ul>python src/data_preprocessing.py</ul>
-<p><b>Training Models</b></p>
-<ul><i><li>Train the Machine Learning models:</li></i></ul>
-<ul>bash Copy code</ul>
-<ul>python src/ml_models.py</ul>
-<ul><i><li>Train the Deep Learning models:</li></i></ul>
 
-<ul>bash
-Copy code</ul>
-<ul>python src/dl_models.py</ul>
-<p><b>Evaluation</b></p>
-<ul>Evaluate the performance of the models:</ul>
-<ul>bash
-Copy code</ul>
-<ul>python src/evaluation.py</ul>
 <h2>Models Implemented</h2>
 <ul><b>Machine Learning Models</b></ul>
 <li>Linear Regression</li>
